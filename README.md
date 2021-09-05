@@ -1,0 +1,1 @@
+Repo contains notes and code of the Head First Design Patterns class that I took provided by Eric Freeman and Elisabeth Robson.
